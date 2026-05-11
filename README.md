@@ -3,6 +3,11 @@
 This repository contains the source, documentation, and written content for the
 official Dygo website.
 
+## Contributing
+
+Contributions to the website, documentation, examples, accessibility, and
+developer experience are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## License
 
 Except where otherwise noted, this repository is licensed under the Creative
